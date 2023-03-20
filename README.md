@@ -1,2 +1,2 @@
 # calculadoraIMC
-Calculadora IMC com Java
+Calculadora IMC usando Java.
