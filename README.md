@@ -2,7 +2,7 @@
 
 ## Sobre o Trabalho
 
-Criar um aplicativo desktop para realizar testes de IMC.Fazer a abstração baseando-se nas informações do aplicativo web disponível em https://Www.programasaudefacil.com.br/calculadora-de-imc.
+Criar um aplicativo desktop para realizar testes de IMC. Fazer a abstração baseando-se nas informações do aplicativo web disponível em https://Www.programasaudefacil.com.br/calculadora-de-imc.
 
 Deve atender também aos seguintes requisitos:
 - Em um pacote "dominio”", deve ter uma classe para os dados e operações de cálculo e interpretação de IMC.
