@@ -1,2 +1,5 @@
 # Calculadora de IMC
-Calculadora IMC usando Java.
+
+##Sobre o Trabalho
+
+Criar um aplicativo desktop para realizar testes de IMC. Deve atender os seguintes requisitos:
