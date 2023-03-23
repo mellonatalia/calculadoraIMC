@@ -190,8 +190,14 @@ public class Tela extends javax.swing.JFrame {
             return;
         }
         
+        if (linhaSelecionada < 0)
+            lista.add(a);
+        else
+            lista.set(linhaSelecionada, a);
+        linhaSelecionada = -1;
+        
         JOptionPane.showMessageDialog(rootPane, "Salvo com sucesso!");
-        lista.add(a);
+        
         atualizarTabela();
         limpar();
     }//GEN-LAST:event_btnSalvarActionPerformed
