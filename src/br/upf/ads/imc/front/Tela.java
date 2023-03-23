@@ -17,7 +17,7 @@ import javax.swing.JOptionPane;
 public class Tela extends javax.swing.JFrame {
     
     ArrayList<calculadoraIMC> lista = new ArrayList<>();
-    int linhaSelecionada;
+    int linhaSelecionada = -1;
     calculadoraIMC calculoSelecionado; 
 
     /**
